@@ -80,7 +80,7 @@ These categories form the foundation of all the algorithms covered in the course
   <img src="docs\ML Workflow.png" width="400"/>
 </p>
 
-<h3 align="center">
+<h5 align="center">
   💡 <i>From preprocessing to model selection — step by step through Machine Learning A–Z.</i> 💡
-</h3>
+</h5>
 
