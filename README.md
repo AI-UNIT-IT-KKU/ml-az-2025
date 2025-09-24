@@ -2,21 +2,84 @@
   <img src="https://freight.cargo.site/w/1200/i/2fcf8fc6613f3eb693a5d49bebc7f05c71a2fb41dc50c5f76e3dd0fc739c3e4f/machine-learning.gif" width="600"/>
 </p>
 
-# Machine Learning A-Z [2025] 
+# 🚀 Machine Learning A–Z [2025] – Python Track
 
-This repository contains my complete implementation and study notes for the Udemy course **“Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]”**.  
-It is organized into clear, reproducible notebooks and detailed explanations to ensure that every concept is well-documented and easy to review.
+This repository contains my **implementation and study notes** for the Udemy course:  
+**“Machine Learning A–Z: AI, Python & R + ChatGPT Prize [2025]”**.  
+
+It focuses on the **Python track** and organizes the material into clear, reproducible notebooks with detailed explanations.
 
 ---
 
 ## 📂 Repository Structure
-- `notebooks/` → Jupyter Notebooks for each course part (Preprocessing, Regression, Classification, etc.)
-- `docs/` → Extra notes, references, and supporting material
-- `data/` → Datasets used in the notebooks
+- `notebooks/` → Jupyter Notebooks for each course part  
+- `docs/` → Extra notes, references, and supporting material  
+- `data/` → Datasets used in the notebooks  
+
+---
+
+## 📖 What is Machine Learning?
+
+Machine Learning (ML) is a branch of Artificial Intelligence (AI) that focuses on teaching computers to **learn from data** and make predictions or decisions without being explicitly programmed.  
+
+In this course we cover a wide range of ML techniques, from simple regression models to more advanced methods like deep learning and natural language processing.  
+
+---
+
+## 📊 Types of Data
+
+In ML we usually deal with two types of data:  
+
+- **Labeled Data (Supervised)** → Each input has a known output.  
+  Example: Study hours → Pass/Fail label.  
+
+- **Unlabeled Data (Unsupervised)** → We only have inputs, no outputs.  
+  Example: Customer income & spending data without categories.  
+
+- **Interaction Data (Reinforcement)** → The agent learns by interacting with an environment and receiving rewards or penalties.  
+  Example: A robot learning to walk.  
+
+---
+
+## 🌱 Types of Machine Learning
+
+- **Supervised Learning** → Learn from labeled data (Regression, Classification).  
+- **Unsupervised Learning** → Find patterns in unlabeled data (Clustering, Association Rules, Dimensionality Reduction).  
+- **Reinforcement Learning** → Learn through actions, rewards, and penalties.  
+
+These categories form the foundation of all the algorithms covered in the course.
+
+---
+
+## 🗺️ Roadmap
+
+| Part | Topic | Notebook |
+|------|--------|-----------|
+| 1 | Data Preprocessing | `01_Preprocessing.ipynb` |
+| 2 | Regression | `02_Regression.ipynb` |
+| 3 | Classification | `03_Classification.ipynb` |
+| 4 | Clustering | `04_Clustering.ipynb` |
+| 5 | Association Rule Learning | `05_Association.ipynb` |
+| 6 | Reinforcement Learning | `06_Reinforcement.ipynb` |
+| 7 | Natural Language Processing (NLP) | `07_NLP.ipynb` |
+| 8 | Deep Learning | `08_DeepLearning.ipynb` |
+| 9 | Dimensionality Reduction | `09_DimensionalityReduction.ipynb` |
+| 10 | Model Selection | `10_ModelSelection.ipynb` |
 
 ---
 
 ## ✅ Objectives
-- Cover all course sections with working code and detailed explanations.  
-- Make the repository self-contained and understandable by anyone reviewing it.  
-- Document key insights, limitations, and comparisons for each ML method.  
+
+- Cover all course sections with working code and clear explanations.  
+- Document **key insights and comparisons** for each ML method.  
+- Provide a structured, easy-to-follow reference for future use.  
+
+---
+
+<p align="center">
+  <img src="docs\ML Workflow.png" width="700"/>
+</p>
+
+<p align="center">
+  💡 *“From preprocessing to model selection — step by step through Machine Learning A–Z.”* 💡
+</p>
