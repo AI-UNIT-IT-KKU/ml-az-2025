@@ -53,18 +53,18 @@ These categories form the foundation of all the algorithms covered in the course
 
 ## 🗺️ Roadmap
 
-| Part | Topic | Notebook |
-|------|--------|-----------|
-| 1 | Data Preprocessing | `01_Preprocessing.ipynb` |
-| 2 | Regression | `02_Regression.ipynb` |
-| 3 | Classification | `03_Classification.ipynb` |
-| 4 | Clustering | `04_Clustering.ipynb` |
-| 5 | Association Rule Learning | `05_Association.ipynb` |
-| 6 | Reinforcement Learning | `06_Reinforcement.ipynb` |
-| 7 | Natural Language Processing (NLP) | `07_NLP.ipynb` |
-| 8 | Deep Learning | `08_DeepLearning.ipynb` |
-| 9 | Dimensionality Reduction | `09_DimensionalityReduction.ipynb` |
-| 10 | Model Selection | `10_ModelSelection.ipynb` |
+| Part | Topic | 
+|------|--------|
+| 1 | Data Preprocessing 
+| 2 | Regression
+| 3 | Classification 
+| 4 | Clustering
+| 5 | Association Rule Learning 
+| 6 | Reinforcement Learning 
+| 7 | Natural Language Processing (NLP) 
+| 8 | Deep Learning 
+| 9 | Dimensionality Reduction
+| 10 | Model Selection 
 
 ---
 
