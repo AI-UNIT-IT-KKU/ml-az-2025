@@ -55,9 +55,6 @@ This average represents how the model performs on unseen data more reliably than
 | **Better generalization** | Reduces the chance of “lucky” or “unlucky” splits.                    |
 | **Efficient data use**    | Every sample is used for both training and validation at least once.  |
 
----
-
-Sure ✅ Here’s a clean, clear English version you can paste directly into your README:
 
 ---
 
