@@ -12,11 +12,6 @@
 | **Embedded** | **Lasso (L1) / Elastic Net**                         | ✅ (during training) |   ⚡️ Medium  |         ✅ High (regularized)        | Linear/GLM baselines; want **sparse** models                                   | Penalizes weights → pushes weak features to **0** (built-in selection).                                   |
 | **Embedded** | **Tree-based Importances (RF / XGBoost / LightGBM)** | ✅ (during training) |   ⚡️ Medium  |                ✅ High               | Non-linear relationships, interactions                                         | Models compute **split/gain importances** while training; handles non-linearity out of the box.           |
 
----
-
-ممتاز جدًا 🔥
-بنفس أسلوب الجدول السابق، بنخلي الشرح **واضح – مركز – بدون تكرار – ومفيد لأي قارئ في README**.
-هذا المحتوى الجاهز تقدر تضيفه بعد جدولك في الملف `ml-concepts-and-metrics.md` 👇
 
 ---
 
@@ -85,10 +80,6 @@ This ensures every fold simulates “new, unseen data” and the evaluation is f
 
 > Always run CV on the **training set only**,
 > and include preprocessing inside the **Pipeline** to avoid data leakage.
-
-
-ممتاز جدًا 🔥
-خلنا نكتبها لك بأسلوب **README أنيق ومباشر** — توضيح مختصر، واضح، وعملي 👇
 
 ---
 
